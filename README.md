@@ -1,4 +1,4 @@
-[![](aftab.jpg)](https://aftabahmad.dev/)
+[![](aftab.png)](https://aftabahmad.dev/)
 
 ##  🤝🏻 &nbsp;Connect with Me
 
