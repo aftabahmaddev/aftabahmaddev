@@ -1,4 +1,4 @@
-[![](aftab.png)](<a href="https://aftabahmad.dev/" target="_blank"></a>)
+[![](aftab.png)]()
 
 ##  🤝🏻 &nbsp;Connect with Me
 
