@@ -1,4 +1,4 @@
-[![](aftab.png)]()
+[![](aftab.png)](https://aftabahmad.dev){:target="_blank"}
 
 ##  🤝🏻 &nbsp;Connect with Me
 
