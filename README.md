@@ -1,11 +1,11 @@
-[![](aftab.png)](https://aftabahmad.dev/)
+[![](aftab.png)](<a href="https://aftabahmad.dev/" target="_blank"></a>)
 
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://aftabahmad.dev"><img src="https://img.shields.io/badge/-aftabahmad.dev-0077B5?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/aftabah772/"><img src="https://img.shields.io/badge/-aftabah772-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:aftabah772@gmail.com"><img src="https://img.shields.io/badge/-aftabah772@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://aftabahmad.dev" target="_blank"><img src="https://img.shields.io/badge/-aftabahmad.dev-0077B5?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aftabah772/" target="_blank"><img src="https://img.shields.io/badge/-aftabah772-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:aftabah772@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-aftabah772@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
 <br>
