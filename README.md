@@ -13,7 +13,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🎓 &nbsp;3rd year Computer Science student at COMSATS University Islamabad.
-- Part of Google Developer Student Club CUI.
+- Google DSC Lead for COMSATS University Islamabad.
 - Passionate about AI * Cloud * Web
 
 
