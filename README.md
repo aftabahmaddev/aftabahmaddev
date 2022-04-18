@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://aftabahmad.dev"><img src="https://img.shields.io/badge/-aftabahmad.dev-0077B5?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/aftabahmaddev/"><img src="https://img.shields.io/badge/-aftabah772-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aftabahmaddev/"><img src="https://img.shields.io/badge/-aftabahmaddev-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:aftabah772@gmail.com"><img src="https://img.shields.io/badge/-aftabah772@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
