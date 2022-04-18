@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://aftabahmad.dev"><img src="https://img.shields.io/badge/-aftabahmad.dev-0077B5?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/aftabah772/"><img src="https://img.shields.io/badge/-aftabah772-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aftabahmaddev/"><img src="https://img.shields.io/badge/-aftabah772-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:aftabah772@gmail.com"><img src="https://img.shields.io/badge/-aftabah772@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
@@ -42,17 +42,17 @@
 
 ### Projects
 
-[![](https://img.shields.io/badge/-%20Google%20Solution%20Challenge-000)](https://github.com/aftabah772/Social-Sapiens-Google-Solution-Challenge-Project)
+[![](https://img.shields.io/badge/-%20Google%20Solution%20Challenge-000)](https://github.com/aftabahmaddev/Social-Sapiens-Google-Solution-Challenge-Project)
 
 
 ### Github Stats
 
-![Profile views](https://gpvc.arturio.dev/aftabah772)
+![Profile views](https://gpvc.arturio.dev/aftabahmaddev)
 
-[![aftabah772's github trophy](https://github-profile-trophy.vercel.app/?username=aftabah772&row=1)](https://github.com/aftabah772/github-profile-trophy)
+[![aftabahmaddev's github trophy](https://github-profile-trophy.vercel.app/?username=aftabahmaddev&row=1)](https://github.com/aftabahmaddev/github-profile-trophy)
 
-[![aftabah772's github stats](https://github-readme-stats.vercel.app/api?username=aftabah772&theme=blue-green)](https://github.com/aftabah772/github-readme-stats)
+[![aftabahmaddev's github stats](https://github-readme-stats.vercel.app/api?username=aftabahmaddev&theme=blue-green)](https://github.com/aftabahmaddev/github-readme-stats)
 
-[![aftabah772's github streak](https://github-readme-streak-stats.herokuapp.com/?user=aftabah772&theme=blue-green)](https://github.com/aftabah772/github-readme-streak-stats)
+[![aftabahmaddev's github streak](https://github-readme-streak-stats.herokuapp.com/?user=aftabahmaddev&theme=blue-green)](https://github.com/aftabahmaddev/github-readme-streak-stats)
 
 
