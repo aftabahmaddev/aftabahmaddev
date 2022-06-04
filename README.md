@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://aftabahmad.dev" target="_blank"><img src="https://img.shields.io/badge/-aftabahmad.dev-0077B5?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/aftabah772/" target="_blank"><img src="https://img.shields.io/badge/-aftabah772-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aftabahmaddev/" target="_blank"><img src="https://img.shields.io/badge/-aftabahmaddev-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:aftabah772@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-aftabah772@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
@@ -12,9 +12,9 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🎓 &nbsp;3rd year Computer Science student at COMSATS University Islamabad.
+- 🎓 &nbsp;Final year Computer Science student at COMSATS University Islamabad.
 - Google DSC Lead for COMSATS University Islamabad.
-- Passionate about AI * Cloud * Web
+- Passionate about Python | Machine learning | Cloud
 
 
 ### Languages
