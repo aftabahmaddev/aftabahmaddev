@@ -12,42 +12,48 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🎓 &nbsp;Final year Computer Science student at COMSATS University Islamabad.
-- Google DSC Lead for COMSATS University Islamabad.
-- Passionate about Python | Machine learning | Cloud
+- 🎓 &nbsp;Computer Science Graduate
+- Expertise include shopify development and e-commerce strategy 
+- Passionate about e-commmerce | Data Sceience | Cloud
 
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?&logo=Java&logoColor=white)
-![HTML](https://img.shields.io/badge/-html-E34F26?&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/-css-1572B6?&logo=css3)
-![bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
+### Frameworks
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+### Data & ML 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### Other Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-100000?&logo=github&&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-ffca28?&logo=firebase&logoColor=black)
-![postgresql](https://img.shields.io/badge/-postgresql-316192?&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS|EC2-000?&logo=Amazon-AWS&logoColor=F90)
-![AWS](https://img.shields.io/badge/-AWS|Lightsail-000?&logo=Amazon-AWS&logoColor=F90)
-![AWS](https://img.shields.io/badge/-AWS|S3bucket-000?&logo=Amazon-AWS&logoColor=F90)
-![Apache24](https://img.shields.io/badge/-Apache|Server-000?&logo=apache&logoColor=F90)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 
 ### Projects
 
-[![](https://img.shields.io/badge/-%20Google%20Solution%20Challenge-000)](https://github.com/aftabah772/Social-Sapiens-Google-Solution-Challenge-Project)
 
 
 ### Github Stats
-
-![Profile views](https://gpvc.arturio.dev/aftabah772)
 
 [![aftabahmaddev's github trophy](https://github-profile-trophy.vercel.app/?username=aftabahmaddev&row=1)](https://github.com/aftabahmaddev/github-profile-trophy)
 
